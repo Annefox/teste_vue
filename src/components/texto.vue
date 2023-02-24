@@ -1,5 +1,5 @@
 <template> 
-<h1> Titulo </h1>
+<h1> Titulo 2</h1>
 <h2> 
     A expressão Lorem ipsum em design gráfico e editoração é um texto padrão em latim utilizado na 
     produção gráfica para preencher os 
