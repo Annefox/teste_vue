@@ -1,11 +1,12 @@
 <template>
 <Batata mensagem="Clique aqui!"/>
 <Batata mensagem="Envie aqui"/>
-<Batata mensagem="Clique aqui"/> 
+<Batata mensagem="aaaaaaaaaaaaaaaa"/> 
 
-<input message="Clique aqui"/>
-<input/>
-<input/>
+
+<Input input-text label="Clique aqui" value=" Escreva algo"/>
+<Input/>
+<Input/>
 
 <Texto />
 </template>

@@ -1,12 +1,12 @@
 <template> 
   <div>
-
+    <p>Message: {{ message }}</p>
+    <label>{{ label }}</label>
+  <input v-model="inputValue" @input="$emit('input-change', inputValue)">
+    
 
   </div>
 </template>
-    <label>{{ label }}</label>
-    <input v-model="inputValue" @input="$emit('input-change', inputValue)">
-    <p>Message is: {{ message }}</p>
 
 <script>
 export default {
