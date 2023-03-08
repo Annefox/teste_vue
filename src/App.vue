@@ -1,9 +1,9 @@
 <template>
-<Batata mensagem="Clique aqui"/>
+<Batata mensagem="Clique aqui!"/>
 <Batata mensagem="Envie aqui"/>
 <Batata mensagem="Clique aqui"/> 
 
-<input/>
+<input message="Clique aqui"/>
 <input/>
 <input/>
 

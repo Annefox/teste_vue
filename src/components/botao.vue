@@ -1,6 +1,5 @@
 <template> 
 <button> {{ mensagem }} </button>
-
 </template>
 
 <script>
